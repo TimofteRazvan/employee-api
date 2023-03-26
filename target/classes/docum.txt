@@ -1,0 +1,4 @@
+Documentation:
+1. Udemy - Spring boot using Intellij  Build a real world project
+2. https://www.bezkoder.com/spring-boot-jpa-h2-example/
+3. https://www.bezkoder.com/spring-boot-unit-test-jpa-repo-datajpatest/
